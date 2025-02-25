@@ -1,9 +1,9 @@
-import streamlist as st # type: ignore
-import pandas as pd # type: ignore
+import streamlist as st 
+import pandas as pd 
 import os
 from io import BytesIO
 
-st.set_page_config(page_title = "Data Sweeper",layout-'wide') # type: ignore
+st.set_page_config(page_title = "Data Sweeper",layout-'wide') 
 
 #CUSTOM CSS
 st.markdown(
